@@ -5,7 +5,7 @@ Repositório destinado à disciplina de Porjeto Integrador I cursado em 2023.1 n
 ## Tema principal
 
 ### Nome provisório: 
-
+Trieventos
 
 ### Área aplicada:
 Locação de Serviços/Vitrine
@@ -22,7 +22,7 @@ Um aplicativo semelhante ao "Ifood" para a locação de espaços para eventos, o
 ## Tema secundário
 
 ### Nome provisório: 
-
+RCGNTION
 
 ### Área aplicada:
 Segurança
