@@ -18,7 +18,7 @@ Um aplicativo semelhante ao "Ifood" para a locação de espaços para eventos, o
 - Diminuir o tempo de espera de resposta entre os estabelecimentos e seus possíveis clientes.
 - Permitir a comparação entre estabelecimentos de uma determinada área.
 
-###Funcionalidades Principais (Main Features)
+### Funcionalidades Principais (Main Features)
 - Locar estabelecimento:
   - Onde o usuário selecionará o local e solicitará a locação;
 - Cancelar locação:
@@ -32,7 +32,7 @@ Um aplicativo semelhante ao "Ifood" para a locação de espaços para eventos, o
 - Agrupar estabelecimentos:
   - Para facilitar a busca no aplicativo por tags de relevância;
 
-###Funcionalidades Secundárias (Features)
+### Funcionalidades Secundárias (Features)
 - Chat de informações:
   - Para que os usuários entrem em contato com o estabelecimento de forma mais rápida;
 - Mapa:
