@@ -18,6 +18,35 @@ Um aplicativo semelhante ao "Ifood" para a locação de espaços para eventos, o
 - Diminuir o tempo de espera de resposta entre os estabelecimentos e seus possíveis clientes.
 - Permitir a comparação entre estabelecimentos de uma determinada área.
 
+###Funcionalidades Principais (Main Features)
+- Locar estabelecimento:
+  - Onde o usuário selecionará o local e solicitará a locação;
+- Cancelar locação:
+  - Caso haja algum imprevisto, o usuário deverá ser capaz de cancelar a reserva, sendo passível de multa (critério definido pelo estabelecimento);
+- Cadastrar usuário:
+  - Para que o usuário ter acesso ao aplicativo é necessário ter uma conta na nossa plataforma;
+- Cadastrar estabelecimento:
+  - Para que estabelecimentos possam divulgar seus espaços, é necessário que tenham conta em nossa plataforma;
+- Histórico de locações:
+  - Para que tanto os usuários comuns quanto os estabelecimentos possam ter acesso à dados de locações anteriores;
+- Agrupar estabelecimentos:
+  - Para facilitar a busca no aplicativo por tags de relevância;
+
+###Funcionalidades Secundárias (Features)
+- Chat de informações:
+  - Para que os usuários entrem em contato com o estabelecimento de forma mais rápida;
+- Mapa:
+  - Para auxiliar o trânsito do usuário, disponibilizaremos a localização;
+- Avaliação dos clientes sobre o estabelecimento;
+- Avaliação do estabelecimento sobre os clientes;
+- Notificações:
+  - Para que os usuários recebam atualizações sobre locação e novidades;
+  - Para que os estabelecimentos possam responder atualizações e solicitações de locações de maneira mais rápida;
+ - Detalhes de locação:
+   - Informações adicionais sobre a locação;
+- Relatórios de fluxo:
+  - Para que estabelecimentos possam verificar o fluxo de locações;
+  - Para que possam gerar novos eventosque possivelmente possam maximizar o lucro;
 
 ## Tema secundário
 
