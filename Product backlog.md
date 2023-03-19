@@ -19,20 +19,20 @@
 
 Critérios para Story Points:
 - Prioridade:
-- - Se for Alta, +3 ponto;
-- - Se for Média, +2 pontos;
-- - Se for Baixa, +1 pontos;
+  - Se for Alta, +3 ponto;
+  - Se for Média, +2 pontos;
+  - Se for Baixa, +1 pontos;
 
 - Categoria:
-- - Se Principal, +3 pontos;
-- - Se Secundária, +2 pontos;
-- - Se Opcional, +1 ponto,
+  - Se Principal, +3 pontos;
+  - Se Secundária, +2 pontos;
+  - Se Opcional, +1 ponto,
 
 - In CRUD (presente na tabela completa):
-- - Se implementar as 4 funcionalidades, +4 pontos;
-- - Se implementar 3 funcionalidades, +3 pontos;
-- - Se implementar 2 funcionalidades, +2 pontos;
-- - Se implementar 1 funcionalidade, +1 ponto;
+  - Se implementar as 4 funcionalidades, +4 pontos;
+  - Se implementar 3 funcionalidades, +3 pontos;
+  - Se implementar 2 funcionalidades, +2 pontos;
+  - Se implementar 1 funcionalidade, +1 ponto;
 
 <sub>Completo em: https://docs.google.com/spreadsheets/d/1sfLdSz2efNg4QRi1aGxiMFhp4ToO1ES1K_Xt7OjgjQY/edit?usp=sharing</sub>
 <sub>Os critérios de listagem de funcionalidades foram organizados apenas pelo Sprint</sub>
