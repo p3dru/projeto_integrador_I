@@ -31,6 +31,8 @@ Um aplicativo semelhante ao "Ifood" para a locação de espaços para eventos, o
   - Para que tanto os usuários comuns quanto os estabelecimentos possam ter acesso à dados de locações anteriores;
 - Agrupar estabelecimentos:
   - Para facilitar a busca no aplicativo por tags de relevância;
+- Vizualizar horários disponíveis:
+  - Para facilitar a pesquisa de horários ainda disponíveis no local de interesse;
 
 ### Funcionalidades Secundárias (Features)
 - Chat de informações:
