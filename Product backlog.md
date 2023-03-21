@@ -5,8 +5,8 @@
 | Locar Estabelecimento | Alta | 1 | 7 | Locador/Locatário | Principal |
 | Cancelar Locação | Média | 1 | 6 | Locador/Locatário | Principal |
 | Cadastrar Usuário | Alta | 1 | 8 | Locatário | Principal |
-| Visualizar Horários Disponíveis | Alta | 2 | 7 | Locatário | Principal |
 | Cadastrar Estabelecimento | Alta | 1 | 8 | Locador | Principal |
+| Visualizar Horários Disponíveis | Alta | 2 | 7 | Locatário | Principal |
 | Histórico de Locações | Média | 2 | 6 | Locador/Locatário | Principal |
 | Agrupar Estabelecimentos | Média | 2 | 9 | Locador/Locatário | Principal |
 | Notificações | Baixa | 3 | 6 | Locador/Locatário | Secundária |
