@@ -37,6 +37,5 @@ Critérios para Story Points:
 
 Link da apresentação em video: https://drive.google.com/file/d/1SW2Z0hO7QrHGzef3dpH2320IB5r9FdSV/view?usp=share_link
 
-<sub>Completo em: https://docs.google.com/spreadsheets/d/1sfLdSz2efNg4QRi1aGxiMFhp4ToO1ES1K_Xt7OjgjQY/edit?usp=sharing</sub>
-
+<sub>Product Backlog Completo em: https://docs.google.com/spreadsheets/d/1sfLdSz2efNg4QRi1aGxiMFhp4ToO1ES1K_Xt7OjgjQY/edit?usp=sharing</sub>
 <sub>Os critérios de listagem de funcionalidades foram organizados apenas pelo Sprint</sub>
