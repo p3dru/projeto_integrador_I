@@ -56,6 +56,10 @@ Um aplicativo semelhante ao "Ifood" para a locação de espaços para eventos, o
 ### Apresentação de Funcionalidades
 Video: https://drive.google.com/file/d/1g8uQpqFC4FTcVU74we-CiFYYQH0O2wS-/view?usp=share_link
 
+### Wireframe
+Video: https://drive.google.com/file/d/1ok0WOKK045zRzE1cLnRFXGUGUgRPJgqB/view?usp=sharing
+Protótipo Funcional: https://p3dru.github.io/trieventos/
+
 ## Tema secundário
 
 ### Nome provisório: 
