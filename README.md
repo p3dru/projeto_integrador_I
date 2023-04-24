@@ -60,6 +60,9 @@ Video: https://drive.google.com/file/d/1g8uQpqFC4FTcVU74we-CiFYYQH0O2wS-/view?us
 - Video: https://drive.google.com/file/d/1ok0WOKK045zRzE1cLnRFXGUGUgRPJgqB/view?usp=sharing
 - Protótipo Funcional: https://p3dru.github.io/trieventos/
 
+### Especificação de funcionalidades
+Documento de Especificação: https://docs.google.com/document/d/1YVEjvMSa517wYVUg2mjxlbmoFlBLFf2ce5uffGFjLHw/edit?usp=sharing
+
 ## Tema secundário
 
 ### Nome provisório: 
