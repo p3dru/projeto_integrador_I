@@ -1,5 +1,5 @@
 # Projeto Integrador I
-Repositório destinado à disciplina de Porjeto Integrador I cursado em 2023.1 no Instituto Federal do Piauí (IFPI)
+Repositório destinado à disciplina de Projeto Integrador I cursado em 2023.1 no Instituto Federal do Piauí (IFPI)
 
 
 ## Tema principal
